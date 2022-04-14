@@ -1,0 +1,3 @@
+C:\Users\kim45\OneDrive - 台东县海端乡锦屏国民小学\C\practice\전화번호 관리 프로그램\Debug\전화번호 관리 프로그램.exe
+C:\Users\kim45\OneDrive - 台东县海端乡锦屏国民小学\C\practice\전화번호 관리 프로그램\Debug\전화번호 관리 프로그램.pdb
+C:\Users\kim45\Workspace\C\전화번호 관리 프로그램\Debug\전화번호 관리 프로그램.exe
